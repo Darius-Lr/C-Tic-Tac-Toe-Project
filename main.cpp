@@ -15,8 +15,8 @@ int main()
 
     drawBoard(spaces);
 
-    // This is the same as while (running == true)
-    while (running)   // Conversely, while(!running) would be the same as while (running == false)
+  
+    while (running)   
     {
 
         // Players turn
