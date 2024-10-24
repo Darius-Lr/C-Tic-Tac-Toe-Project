@@ -1,1 +1,2 @@
-# C-Tic-Tac-Toe-Project
+# Tic-Tac-Toe Game in C++
+This project implements a console-based Tic-Tac-Toe game where a player competes against the computer. The game involves a 3x3 grid, and the player and computer take turns placing their markers (X for the player, O for the computer) on the grid. The game continues until the player or the computer wins by forming a horizontal, vertical, or diagonal line, or the game ends in a tie if all positions are filled.
